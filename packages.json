@@ -1,78 +1,82 @@
 [
-    {
-        "package": "sportsdataverse",
-        "url": "https://github.com/sportsdataverse/sportsdataverse-R"
-    },
-    {
-        "package": "cfbfastR",
-        "url": "https://github.com/sportsdataverse/cfbfastR"
-    },
-    {
-        "package": "cfbplotR",
-        "url": "https://github.com/sportsdataverse/cfbplotR"
-    },
-    {
-        "package": "cfb4th",
-        "url": "https://github.com/sportsdataverse/cfb4th"
-    },
-    {
-        "package": "puntr",
-        "url": "https://github.com/Puntalytics/puntr"
-    },
-    {
-        "package": "hoopR",
-        "url": "https://github.com/sportsdataverse/hoopR"
-    },
-    {
-        "package": "wehoop",
-        "url": "https://github.com/sportsdataverse/wehoop"
-    },
-    {
-        "package": "baseballr",
-        "url": "https://github.com/BillPetti/baseballr"
-    },
-    {
-        "package": "mlbplotR",
-        "url": "https://github.com/camdenk/mlbplotR"
-    },
-    {
-        "package": "softballR",
-        "url": "https://github.com/sportsdataverse/softballR"
-    },
-    {
-        "package": "fastRhockey",
-        "url": "https://github.com/sportsdataverse/fastRhockey"
-    },
-    {
-        "package": "sportyR",
-        "url": "https://github.com/sportsdataverse/sportyR"
-    },
-    {
-        "package": "ggshakeR",
-        "url": "https://github.com/abhiamishra/ggshakeR"
-    },
-    {
-        "package": "soccerAnimate",
-        "url": "https://github.com/Dato-Futbol/soccerAnimate"
-    },
-    {
-        "package": "nwslR",
-        "url": "https://github.com/nwslR/nwslR"
-    },
-    {
-        "package": "usfootballR",
-        "url": "https://github.com/sportsdataverse/usfootballR"
-    },
-    {
-        "package": "oddsapiR",
-        "url": "https://github.com/sportsdataverse/oddsapiR"
-    },
-    {
-        "package": "chessR",
-        "url": "https://github.com/JaseZiv/chessR"
-    },
-    {
-        "package": "recruitR",
-        "url": "https://github.com/sportsdataverse/recruitR"
-    }
+  {
+    "package": "sportsdataverse",
+    "url": "https://github.com/sportsdataverse/sportsdataverse-R"
+  },
+  {
+    "package": "cfbfastR",
+    "url": "https://github.com/sportsdataverse/cfbfastR"
+  },
+  {
+    "package": "cfbplotR",
+    "url": "https://github.com/sportsdataverse/cfbplotR"
+  },
+  {
+    "package": "sdvplotR",
+    "url": "https://github.com/sportsdataverse/sdvplotR"
+  },
+  {
+    "package": "cfb4th",
+    "url": "https://github.com/sportsdataverse/cfb4th"
+  },
+  {
+    "package": "puntr",
+    "url": "https://github.com/Puntalytics/puntr"
+  },
+  {
+    "package": "hoopR",
+    "url": "https://github.com/sportsdataverse/hoopR"
+  },
+  {
+    "package": "wehoop",
+    "url": "https://github.com/sportsdataverse/wehoop"
+  },
+  {
+    "package": "baseballr",
+    "url": "https://github.com/BillPetti/baseballr"
+  },
+  {
+    "package": "mlbplotR",
+    "url": "https://github.com/camdenk/mlbplotR"
+  },
+  {
+    "package": "softballR",
+    "url": "https://github.com/sportsdataverse/softballR"
+  },
+  {
+    "package": "fastRhockey",
+    "url": "https://github.com/sportsdataverse/fastRhockey"
+  },
+  {
+    "package": "sportyR",
+    "url": "https://github.com/sportsdataverse/sportyR"
+  },
+  {
+    "package": "ggshakeR",
+    "url": "https://github.com/abhiamishra/ggshakeR"
+  },
+  {
+    "package": "soccerAnimate",
+    "url": "https://github.com/Dato-Futbol/soccerAnimate"
+  },
+  {
+    "package": "nwslR",
+    "url": "https://github.com/nwslR/nwslR"
+  },
+  {
+    "package": "usfootballR",
+    "url": "https://github.com/sportsdataverse/usfootballR"
+  },
+  {
+    "package": "oddsapiR",
+    "url": "https://github.com/sportsdataverse/oddsapiR"
+  },
+  {
+    "package": "chessR",
+    "url": "https://github.com/JaseZiv/chessR"
+  },
+  {
+    "package": "recruitR",
+    "url": "https://github.com/sportsdataverse/recruitR"
+  }
 ]
