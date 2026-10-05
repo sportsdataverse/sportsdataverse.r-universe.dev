@@ -8,6 +8,10 @@
     "url": "https://github.com/sportsdataverse/cfbfastR"
   },
   {
+    "package": "cfbseedR",
+    "url": "https://github.com/sportsdataverse/cfbseedR"
+  },
+  {
     "package": "cfbplotR",
     "url": "https://github.com/sportsdataverse/cfbplotR"
   },
